@@ -1,0 +1,2 @@
+# my dotnet publish script
+
